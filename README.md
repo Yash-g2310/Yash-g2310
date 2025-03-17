@@ -124,6 +124,9 @@ I actively participate in competitive programming to sharpen my problem-solving 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yash-g2310&theme=radical" alt="GitHub Streak Stats" />
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yash-g2310&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 ---
 
