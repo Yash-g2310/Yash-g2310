@@ -82,8 +82,8 @@
 ## 🏆 Competitive Programming
 
 I actively participate in competitive programming to sharpen my problem-solving skills:
-- **Codeforces:** [Profile](https://codeforces.com/profile/Yash_2310) | Highest Rating: 1615  
-- **CodeChef:** [Profile](https://www.codechef.com/users/yg351124) | Highest Rating: 1644  
+- **Codeforces:** [Profile](https://codeforces.com/profile/Yash_2310) | Highest Rating: 1682 
+- **CodeChef:** [Profile](https://www.codechef.com/users/yg351124) | Highest Rating: 1822
 - **LeetCode:** [Profile](https://leetcode.com/u/yash_2310/)
 
 ---
